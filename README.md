@@ -41,6 +41,7 @@ The goal was to simulate real-world attacks, identify vulnerabilities, exploit t
 
 **Key Commands:**
 ```bash
-netdiscover -r 192.168.50.0/24
-nmap -sV -A -T4 <target_ip>
-nmap --script vuln <target_ip>
+
+exit
+
+
